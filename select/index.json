@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "漢泣き",
+  "base_artist": "136youngboss",
+  "createdAt": "2026-01-05T07:40:45.114315Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "漢泣き",
+      "artist": "136youngboss",
+      "has_synced": false,
+      "path": "select/pl_01_漢泣き_136youngboss.txt"
+    }
+  ]
+}
